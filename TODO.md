@@ -1,0 +1,1 @@
+* [ ] Finalize Git repository setup
