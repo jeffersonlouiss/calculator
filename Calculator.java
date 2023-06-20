@@ -9,4 +9,9 @@ public class Calculator {
 	{
 		return a + b;
 	}
+
+	public double multiplication(int a, int b)
+	{
+		return a * b;
+	}
 }
