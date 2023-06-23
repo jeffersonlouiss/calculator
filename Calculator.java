@@ -10,11 +10,6 @@ public class Calculator {
 		return a + b;
 	}
 
-	public double multiplication(int a, int b)
-	{
-		return a * b;
-	}
-
 	public int subtraction(int a, int b)
 	{
 		return a - b;
@@ -24,7 +19,7 @@ public class Calculator {
 	{
 		return a - b;
 	}
-
+	
 	public int divition(int a, int b)
 	{
 		return a / b;
@@ -33,5 +28,15 @@ public class Calculator {
 	public double divition(double a, double b)
 	{
 		return a / b;
+	}
+
+	public int multiply(int a, int b)
+	{
+		return a * b;
+	}
+
+	public double multiply(double a, double b)
+	{
+		return a * b;
 	}
 }
